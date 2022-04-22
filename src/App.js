@@ -22,4 +22,6 @@ function App() {
   );
 }
 
+// This is the root of the project
+
 export default App;
